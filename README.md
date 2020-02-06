@@ -8,3 +8,7 @@ https://visualgo.net/en/sorting
 ```
 https://vnoi.info/wiki/algo/basic/sorting
 ```
+### Độ phức tạp của thuật toán
+```
+https://topdev.vn/blog/do-phuc-tap-cua-thuat-toan/
+```
