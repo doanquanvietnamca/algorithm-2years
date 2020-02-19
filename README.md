@@ -12,3 +12,7 @@ https://vnoi.info/wiki/algo/basic/sorting
 ```
 https://topdev.vn/blog/do-phuc-tap-cua-thuat-toan/
 ```
+### Các dạng bài sử dụng thuật toán tham lam - Greedy Algorithm Problems
+```
+https://viblo.asia/p/cac-dang-bai-su-dung-thuat-toan-tham-lam-greedy-algorithm-problems-924lJARYZPM
+```
