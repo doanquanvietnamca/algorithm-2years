@@ -16,3 +16,7 @@ https://topdev.vn/blog/do-phuc-tap-cua-thuat-toan/
 ```
 https://viblo.asia/p/cac-dang-bai-su-dung-thuat-toan-tham-lam-greedy-algorithm-problems-924lJARYZPM
 ```
+Bí kíp tối ưu hoá (optimize) code C/C++
+```
+https://cppdeveloper.com/c-nang-cao/bi-kip-toi-uu-hoa-code-c-c/
+```
