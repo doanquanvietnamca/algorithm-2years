@@ -54,7 +54,7 @@ int main(int argc, char* argv[])
         double len;
         int x;string st;
 
-        FILE *op = freopen("input345.txt", "r", stdin);  // <-----
+        
         scanf("%lf", &len);
 
         //int myAr[n];
