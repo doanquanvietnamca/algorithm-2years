@@ -23,3 +23,7 @@ https://cppdeveloper.com/c-nang-cao/bi-kip-toi-uu-hoa-code-c-c/
 ```
 https://github.com/Baobaobear/sort
 ```
+Efficient and easy segment trees
+```
+https://codeforces.com/blog/entry/18051
+```
