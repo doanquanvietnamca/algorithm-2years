@@ -27,3 +27,7 @@ Efficient and easy segment trees
 ```
 https://codeforces.com/blog/entry/18051
 ```
+VS COnfig
+```
+https://medium.com/better-programming/how-to-use-vscode-like-a-pro-e120c428f45f
+```
