@@ -31,3 +31,7 @@ VS COnfig
 ```
 https://medium.com/better-programming/how-to-use-vscode-like-a-pro-e120c428f45f
 ```
+OPO 2.1
+```
+https://cloud.mail.ru/public/5b4G/3LHeFR184/
+```
